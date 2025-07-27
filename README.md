@@ -1,11 +1,12 @@
-Got it! Here’s a **README.md** version with a proprietary license note — stating the project is **not open source** and for private use only:
 
-````markdown
-# WARP Optimizer
+
+
+# Ping-Optimizer-Morocco
+
 
 ## About This Project
 
-**WARP Optimizer** is a Windows desktop application designed to optimize and manage your Cloudflare WARP VPN connection. It automatically selects the best network endpoint based on latency and packet loss, and connects you to your preferred Cloudflare data centers (colo) — specifically targeting **LIS** (Lisbon) or **MAD** (Madrid) locations.
+**Ping-Optimizer-Morocco** is a Windows desktop application designed to optimize and manage your Cloudflare WARP VPN connection. It automatically selects the best network endpoint based on latency and packet loss, and connects you to your preferred Cloudflare data centers (colo) — specifically targeting **LIS** (Lisbon) or **MAD** (Madrid) locations.
 
 The application features a modern and easy-to-use graphical interface built with Python and Tkinter, offering real-time logs, current colo status, and flexible configuration of target colos.
 
